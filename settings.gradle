@@ -1,0 +1,4 @@
+rootProject.name = 'rsocket'
+
+include 'client'
+include 'server'
